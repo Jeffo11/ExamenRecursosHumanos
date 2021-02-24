@@ -1,5 +1,5 @@
 # ExamenRecursosHumanos
-Exámen de Programación Visual Segundo Parcial----> @Dilan Paspuel 
+Exámen de Programación Visual Segundo Parcial----> @DilanPaspuel 
 Programa en Visual Basic para el ingreso de empleados y clientes como sus datos personales:
 
 Como:
